@@ -1,7 +1,5 @@
 #include <gtest/gtest.h>
 #include <C:/code/projects/jobs-scheduler/jobs-scheduler/Queue.hpp>
-#include <C:/code/projects/jobs-scheduler/jobs-scheduler/List.hpp>
-
 
 namespace {
 

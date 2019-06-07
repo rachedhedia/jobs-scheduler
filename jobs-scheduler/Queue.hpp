@@ -1,11 +1,10 @@
 #pragma once
 
-#include "List.hpp"
 #include "IQueue.hpp"
 #include <vector>
 
 template<class T>
-class Queue : public List<T>, public IQueue<T>
+class Queue : public IQueue<T>
 {
 public:	
 	
